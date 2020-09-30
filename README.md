@@ -1,4 +1,4 @@
-# Object-Detection
+# Object-Detection By Sachin Paul
 Soil Detection Using Raspberry Pi 3B model and Pi camera
 # Import packages
 import os
