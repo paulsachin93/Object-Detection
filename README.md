@@ -1,5 +1,5 @@
 # Object-Detection
-Soil Detection Using Raspberry Pi 3B model and Pi camera
+Object Detection Using Raspberry Pi 3B model and Pi camera
 # Import packages
 import os
 import cv2
